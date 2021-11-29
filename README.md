@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mucitmaker
+- 👋 Hi, I’m @mustafakarakanat
 - 👀 I’m interested in deep learning
 - 🌱 I’m currently learning python and c++
 
